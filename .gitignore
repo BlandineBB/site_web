@@ -1,4 +1,6 @@
 tmp/todo.txt
 .idea
-tmp/*
 .DS_Store
+tmp/*
+*.txt
+
